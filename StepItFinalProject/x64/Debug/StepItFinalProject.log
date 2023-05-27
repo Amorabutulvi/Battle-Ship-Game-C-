@@ -1,0 +1,3 @@
+﻿  StepItFinalProject.cpp
+C:\Users\User\Desktop\StepItFinalProject\Createenemy.h(4,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  StepItFinalProject.vcxproj -> C:\Users\User\Desktop\StepItFinalProject\x64\Debug\StepItFinalProject.exe
